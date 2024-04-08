@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.appealing-heading {
+  background-color: #3e5670bd; /* Bootstrap primary color */
+  color: #fff; /* White text color */
+  padding: 15px; /* Padding for space around text */
+  border-radius: 00px; /* Rounded corners */
+  text-align: center; /* Center align text */
+  box-shadow: 0 4px 6px rgba(17, 7, 7, 0.267); /* Box shadow for depth */
+}
+
